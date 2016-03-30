@@ -1,2 +1,0 @@
-BASE_URL=https://go.xero.com/
-LOGIN_URL=https://login.xero.com/
